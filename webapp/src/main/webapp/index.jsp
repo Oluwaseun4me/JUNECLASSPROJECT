@@ -1,2 +1,1 @@
-Nigeria DevOps class is on, so much to learn. Get ready now!!!
-Class is still in progress
+Nigeria DevOps Janaury class is ON and there is so much to learn. Get onboard for a ride.
