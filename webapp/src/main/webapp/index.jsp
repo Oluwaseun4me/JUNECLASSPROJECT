@@ -1,1 +1,1 @@
-Sample webpage for CI/CD Pipeline automation 2026 
+Sample webpage for CI/CD Pipeline automation 2026 project
